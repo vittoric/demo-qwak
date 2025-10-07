@@ -27,14 +27,6 @@ Esta aplicación está diseñada específicamente para **presentaciones de 8 min
 - **Charts**: Recharts
 - **Tipografía**: Epilogue (Google Fonts)
 
-## 🎨 Características de Diseño
-
-- **Fondo uniforme**: `#2D2D2D` en todas las pantallas
-- **Animaciones fluidas**: Partículas, transiciones y microinteracciones
-- **Diseño responsive**: Adaptable a desktop y mobile
-- **Tipografía consistente**: Fuente Epilogue en toda la aplicación
-- **Elementos visuales modernos**: Gradientes, blur effects, glass morphism
-
 ## 🚀 Flujo de la Demo
 
 ### 1. **Hero Section**
