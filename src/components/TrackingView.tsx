@@ -6,6 +6,7 @@ import { Badge } from './ui/badge';
 import { Collapsible, CollapsibleContent, CollapsibleTrigger } from './ui/collapsible';
 //import mapImage from ':asset/7315cb132255caadd349329b0cc063321a6c15f5.png';
 const mapImage = '/image.png';
+
 interface TrackingPoint {
   id: string;
   name: string;
