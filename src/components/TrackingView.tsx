@@ -4,8 +4,8 @@ import { MapPin, Navigation, Clock, Route, Car, CheckCircle, Shield, Phone, Zap,
 import { Card, CardContent, CardHeader, CardTitle } from './ui/card';
 import { Badge } from './ui/badge';
 import { Collapsible, CollapsibleContent, CollapsibleTrigger } from './ui/collapsible';
-import mapImage from ':asset/7315cb132255caadd349329b0cc063321a6c15f5.png';
-
+//import mapImage from ':asset/7315cb132255caadd349329b0cc063321a6c15f5.png';
+const mapImage = '/image.png';
 interface TrackingPoint {
   id: string;
   name: string;
@@ -147,7 +147,6 @@ export default function TrackingView() {
     if (apiName.includes('Device Swap') || apiName.includes('Swap Detection')) return <Zap className="w-4 h-4" />;
     return <Phone className="w-4 h-4" />;
   };
-
   return (
     <div className="space-y-6">
       {/* Header */}
