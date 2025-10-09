@@ -5,7 +5,7 @@ import { Card, CardContent, CardHeader, CardTitle } from './ui/card';
 import { Badge } from './ui/badge';
 import { Collapsible, CollapsibleContent, CollapsibleTrigger } from './ui/collapsible';
 //import mapImage from ':asset/7315cb132255caadd349329b0cc063321a6c15f5.png';
-const mapImage = '/image.png';
+import mapImage from '../assets/7315cb132255caadd349329b0cc063321a6c15f5.png';
 
 interface TrackingPoint {
   id: string;
