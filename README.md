@@ -6,7 +6,7 @@
 
 Es un sistema completo de seguimiento de conductores con un diseño tecnológico moderno, animaciones fluidas y un enfoque profesional que simula un entorno real de gestión de flotas y logística.
 
-Link demo: https://demo-qwak-1zgg.vercel.app/
+**Link demo:** https://demo-qwak-1zgg.vercel.app/
 
 ## 🎯 Propósito de la Demo
 
